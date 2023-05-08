@@ -1,0 +1,113 @@
+body {
+    padding-top: 70px;
+  }
+
+
+@font-face {
+    font-family: museo300;
+    src: url('../FONT/museo300.otf');
+}
+
+@font-face {
+    font-family: museo700;
+    src: url('../FONT/museo700.otf');
+}
+
+@font-face {
+    font-family: museo900;
+    src: url('../FONT/museo900.otf');
+}
+
+@font-face {
+    font-family: roboto-regular;
+    src: url('../FONT/ROBOTO/RobotoSlab-Regular.ttf');
+}
+
+.museo300 {
+    font-family: "museo300";
+}
+
+.museo700 {
+    font-family: "museo700";
+}
+
+.museo900 {
+    font-family: "museo900";
+}
+
+.navbar{
+    background-color: #B41C20 !important;
+}
+
+.roboto-regular {
+    font-family: "roboto-regular";
+}
+
+.offcanvas-header{
+    background-color: #B41C20 !important;
+}
+
+.offcanvas-body{
+    
+    padding-left: 15px;
+    padding-right: 0;
+    padding-top: 15px;
+    padding-bottom: 0;
+}
+
+.white-text{
+    color:whitesmoke;
+}
+
+.text-menu{
+    margin-top:50px;
+}
+
+.contado{
+    background-color:#09894F ;
+    font-family: "museo700";
+
+    
+    
+}
+
+.arte{
+    background-color:#8F2D60 ;
+    font-family: "museo700";
+    
+}
+
+.sport{
+    background-color:#00A1D5 ;
+    font-family: "museo700";
+}
+
+.wellness{
+    background-color:#CA4985 ;
+    font-family: "museo700";
+}
+
+.mangiare{
+    background-color:#CC8542 ;
+    font-family: "museo700";
+}
+
+.info{
+    background-color:#C83734 ;
+    font-family: "museo700";
+}
+
+.menu{
+
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.nav-link{
+    padding: 10px;
+}
+
+.navbar-toggler{
+    border: 0;
+}

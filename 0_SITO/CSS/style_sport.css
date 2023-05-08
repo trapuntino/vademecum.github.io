@@ -1,0 +1,213 @@
+body {
+    padding-top: 70px;
+    background-color: #00A1D5;
+}
+
+.margine{
+    margin-top: 15px;
+}
+
+
+
+
+@font-face {
+    font-family: museo300;
+    src: url('../FONT/museo300.otf');
+}
+
+@font-face {
+    font-family: museo700;
+    src: url('../FONT/museo700.otf');
+}
+
+@font-face {
+    font-family: museo900;
+    src: url('../FONT/museo900.otf');
+}
+
+@font-face {
+    font-family: roboto-regular;
+    src: url('../FONT/ROBOTO/RobotoSlab-Regular.ttf');
+}
+
+@font-face {
+    font-family: roboto-medium;
+    src: url('../FONT/ROBOTO/RobotoSlab-Medium.ttf');
+}
+
+.museo300 {
+    font-family: "museo300";
+}
+
+.museo700 {
+    font-family: "museo700";
+}
+
+.museo900 {
+    font-family: "museo900";
+}
+
+.roboto-regular {
+    font-family: "roboto-regular";
+}
+
+.navbar {
+    background-color: #B41C20 !important;
+}
+
+.offcanvas-header {
+    background-color: #B41C20 !important;
+}
+
+.offcanvas-body {
+
+    padding-left: 15px;
+    padding-right: 0;
+    padding-top: 15px;
+    padding-bottom: 0;
+}
+
+.white-text {
+    color: whitesmoke;
+}
+
+.text-menu {
+    margin-top: 50px;
+}
+
+.contado {
+    background-color: #09894F;
+    font-family: "museo700";
+
+
+
+}
+
+.arte {
+    background-color: #8F2D60;
+    font-family: "museo700";
+
+}
+
+.sport {
+    background-color: #00A1D5;
+    font-family: "museo700";
+}
+
+.wellness {
+    background-color: #CA4985;
+    font-family: "museo700";
+}
+
+.mangiare {
+    background-color: #CC8542;
+    font-family: "museo700";
+}
+
+.info {
+    background-color: #C83734;
+    font-family: "museo700";
+}
+
+.separa{
+    padding-top: 15px;
+}
+
+.separa2{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.menu {
+
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.nav-link {
+    padding: 10px;
+}
+
+.navbar-toggler {
+    border: 0;
+}
+
+.card-header {
+    background-color: #036d91;
+    padding-top:15px;
+    padding-bottom: 0;
+
+}
+
+
+.titolo {
+    padding-left: 15px;
+}
+
+.paragrafo {
+    padding-top: 15px;
+}
+
+
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.card img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.card-title{
+    font-family: "museo700";
+
+}
+
+.card-text{
+    font-family: "roboto-regular";
+}
+
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  .card img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .card {
+    
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: none;
+    
+  }
+
+  .carosello{
+    margin: 0 0.5em;
+  }
+  .carousel-inner {
+    padding: 12px;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    background-color: #e1e1e1;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  
+
+
+  td{
+    font-family: "roboto-regular" !important;
+  }
+
+  th{
+    font-family: "roboto-medium" !important;
+  }
